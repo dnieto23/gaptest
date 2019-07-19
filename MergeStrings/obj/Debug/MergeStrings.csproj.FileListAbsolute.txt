@@ -1,0 +1,7 @@
+D:\GAP\MergeStrings\MergeStrings\MergeStrings\bin\Debug\MergeStrings.exe.config
+D:\GAP\MergeStrings\MergeStrings\MergeStrings\bin\Debug\MergeStrings.exe
+D:\GAP\MergeStrings\MergeStrings\MergeStrings\bin\Debug\MergeStrings.pdb
+D:\GAP\MergeStrings\MergeStrings\MergeStrings\obj\Debug\MergeStrings.csprojAssemblyReference.cache
+D:\GAP\MergeStrings\MergeStrings\MergeStrings\obj\Debug\MergeStrings.csproj.CoreCompileInputs.cache
+D:\GAP\MergeStrings\MergeStrings\MergeStrings\obj\Debug\MergeStrings.exe
+D:\GAP\MergeStrings\MergeStrings\MergeStrings\obj\Debug\MergeStrings.pdb
